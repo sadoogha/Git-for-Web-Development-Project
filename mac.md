@@ -12,5 +12,7 @@ Now that you are all set up, it's time to learn a little more about the tools of
 8. How do you resolve a merge conflict? Within github ****
 
 
-Hello!!!!!!
+
+
+
 
